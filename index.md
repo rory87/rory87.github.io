@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-![Image](https://gist.github.com/rory87/4c08dbe1b086e1be128aaffb60ac0ad8.js)
+![Image](<script src="https://gist.github.com/rory87/4c08dbe1b086e1be128aaffb60ac0ad8.js"></script>)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
