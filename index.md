@@ -23,7 +23,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-<script src="https://gist.github.com/rory87/4c08dbe1b086e1be128aaffb60ac0ad8.js"></script>
+<script src="https://gist.github.com/rory87/79dd193a050be3eac52c4dcd9eca8ee0.js" type="text/javascript"></script>
+
 
 1. Numbered
 2. List
