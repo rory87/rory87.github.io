@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://octodex.github.com/images/yaktocat.png)
 
 ![Image](<script src="https://gist.github.com/rory87/4c08dbe1b086e1be128aaffb60ac0ad8.js"></script>)
 ```
