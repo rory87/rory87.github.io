@@ -27,7 +27,10 @@ Syntax highlighted code block
 
 [Link](url) and ![Image]
 
-(https://octodex.github.com/images/yaktocat.png)
+
+![A cat](https://octodex.github.com/images/yaktocat.png)
+Format: ![Alt Text](url)
+
 
 ![Image](<script src="https://gist.github.com/rory87/4c08dbe1b086e1be128aaffb60ac0ad8.js"></script>)
 ```
