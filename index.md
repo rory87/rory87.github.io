@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![A cat](https://octodex.github.com/images/yaktocat.png)
 Format: ![Alt Text](url)
 
-<script src="https://gist.github.com/rory87/4c08dbe1b086e1be128aaffb60ac0ad8.js" type="text/javascript"></script>
+<script src="https://gist.github.com/rory87/1bd1b49765a519ac6043fcdcde09f87b.js"></script>
 
 ### Markdown
 
