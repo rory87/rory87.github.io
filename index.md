@@ -4,8 +4,6 @@ You can use the [editor on GitHub](https://github.com/rory87/rory87.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![A cat](https://octodex.github.com/images/yaktocat.png)
-Format: ![Alt Text](url)
 
 <script src="https://gist.github.com/rory87/1bd1b49765a519ac6043fcdcde09f87b.js"></script>
 
